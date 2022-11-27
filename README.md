@@ -45,37 +45,37 @@ Part of speech indicates how the word functions in meaning as well as grammatica
 2.	Pronoun  
    A pronoun is a word that is used in place of a noun. A pronoun is usually substituted for a specific noun, which is called its antecedent. In the italics sentence below, the antecedent for the pronoun her is the girl. Pronouns are further defined by type: personal pronouns refer to specific persons or things; possessive pronouns indicate ownership; reflexive pronouns are used to emphasize another noun or pronoun; relative pronouns introduce a subordinate clause; and demonstrative pronouns identify, point to, or refer to nouns.
 
-*The young girl asked **her** mother to bring **her** to the beach at Sentosa for a picnic and then **she** quickly hid under the blanket. Wow!*
+      *The young girl asked **her** mother to bring **her** to the beach at Sentosa for a picnic and then **she** quickly hid under the blanket. Wow!*
 
 3.	Verb  
    The verb in a sentence expresses action or being. There is a main verb and sometimes one or more helping verbs. (“She can dance.” Dance is the main verb; can is the helping verb.) A verb must agree with its subject number (both are singular or both are plural). Verbs also take different forms to express tense.
 
-*The young girl **asked** her mother to **bring** her to the beach at Sentosa for a picnic and then she quickly **hid** under the blanket. Wow!*
+      *The young girl **asked** her mother to **bring** her to the beach at Sentosa for a picnic and then she quickly **hid** under the blanket. Wow!*
 
 4.	Adjective  
    An adjective is a word used to modify or describe a noun or a pronoun. It usually answers the question of which one, what kind, or how many. (Articles [a, an, the] are usually classified as adjectives.)
 
-*The **young** girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!*
+      *The **young** girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!*
 
 5.	Adverb  
    An adverb describes or modifies a verb, an adjective, or another adverb. It usually answers the questions of when, where, how, why, under what conditions, or to what degree. Adverbs often end in -ly.
 
-*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she **quickly** hid under the blanket. Wow!*
+      *The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she **quickly** hid under the blanket. Wow!*
 
 6.	Preposition  
    A preposition is a word placed before a noun or pronoun to form a phrase modifying another word in the sentence.
 
-*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid **under** the blanket. Wow!*
+      *The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid **under** the blanket. Wow!*
 
 7.	Conjunction  
    A conjunction joins words, phrases, or clauses and indicates the relationship between the elements joined. Coordinating conjunctions connect grammatically equal elements: and, but, or, nor, for, so, yet. Subordinating conjunctions connect clauses that are not equal: because, although, while, since, etc.
 
-*The young girl asked her mother to bring her to the beach at Sentosa for a picnic **and** then she quickly hid under the blanket. Wow!*
+      *The young girl asked her mother to bring her to the beach at Sentosa for a picnic **and** then she quickly hid under the blanket. Wow!*
 
 8.	Interjection  
    An interjection is a word used to express emotion.
 
-*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. **Wow**!*
+      *The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. **Wow**!*
 
 #### Methodology and Design
 Native speakers possess an intuitive knowledge of parts of speech (often without an awareness of the underlying technicalities) but computers have to first understand these constituent parts of speech before they can effectively analyse language.
