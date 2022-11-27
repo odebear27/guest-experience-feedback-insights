@@ -37,45 +37,45 @@ customer satisfaction as part of Sentosa guest insights & experience (GIE) initi
 #### Background
 Part of speech indicates how the word functions in meaning as well as grammatically within the sentence. In English, as in many other languages, a single word can function as more than one part of speech when used in different circumstances. Understanding part of speech is essential for determining the correct definition of a word when using the dictionary. There are eight Parts of speech in the English language: noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection.
 
-a.	Noun
+1.	Noun
 A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
 
-b.	Pronoun
+2.	Pronoun
 A pronoun is a word that is used in place of a noun. A pronoun is usually substituted for a specific noun, which is called its antecedent. In the italics sentence below, the antecedent for the pronoun her is the girl. Pronouns are further defined by type: personal pronouns refer to specific persons or things; possessive pronouns indicate ownership; reflexive pronouns are used to emphasize another noun or pronoun; relative pronouns introduce a subordinate clause; and demonstrative pronouns identify, point to, or refer to nouns.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl asked **her** mother to bring **her** to the beach at Sentosa for a picnic and then **she** quickly hid under the blanket. Wow!*
 
-c.	Verb
+3.	Verb
 The verb in a sentence expresses action or being. There is a main verb and sometimes one or more helping verbs. (“She can dance.” Dance is the main verb; can is the helping verb.) A verb must agree with its subject number (both are singular or both are plural). Verbs also take different forms to express tense.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl **asked** her mother to **bring** her to the beach at Sentosa for a picnic and then she quickly **hid** under the blanket. Wow!*
 
-d.	Adjective
+4.	Adjective
 An adjective is a word used to modify or describe a noun or a pronoun. It usually answers the question of which one, what kind, or how many. (Articles [a, an, the] are usually classified as adjectives.)
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The **young** girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!*
 
-e.	Adverb
+5.	Adverb
 An adverb describes or modifies a verb, an adjective, or another adverb. It usually answers the questions of when, where, how, why, under what conditions, or to what degree. Adverbs often end in -ly.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she **quickly** hid under the blanket. Wow!*
 
-f.	Preposition
+6.	Preposition
 A preposition is a word placed before a noun or pronoun to form a phrase modifying another word in the sentence.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid **under** the blanket. Wow!*
 
-g.	Conjunction
+7.	Conjunction
 A conjunction joins words, phrases, or clauses and indicates the relationship between the elements joined. Coordinating conjunctions connect grammatically equal elements: and, but, or, nor, for, so, yet. Subordinating conjunctions connect clauses that are not equal: because, although, while, since, etc.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl asked her mother to bring her to the beach at Sentosa for a picnic **and** then she quickly hid under the blanket. Wow!*
 
-h.	Interjection
+8.	Interjection
 An interjection is a word used to express emotion.
 
-The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. Wow!
+*The young girl asked her mother to bring her to the beach at Sentosa for a picnic and then she quickly hid under the blanket. **Wow**!*
 
 #### Methodology and Design
 Native speakers possess an intuitive knowledge of parts of speech (often without an awareness of the underlying technicalities) but computers have to first understand these constituent parts of speech before they can effectively analyse language.
@@ -83,7 +83,7 @@ Part-of-speech tagging for Indonesian language has been limited and industrial-s
 For this project, Stanza, a Python natural language analysis package created by StanfordNLP, has been chosen to do Part-of-speech tagging. The toolkit is designed to be parallel among more than 70 languages, using the Universal Dependencies formalism. For each word in a sentence, Stanza assigns it a POS, and analyses its universal morphological features (UFeats, e.g., singular/plural, 1st/2nd/3rd person, etc.). To predict POS and UFeats, it adopts a bidirectional long short-term memory network (Bi-LSTM) as the basic architecture. For consistency among universal POS (UPOS), treebank-specific POS (XPOS), and UFeats, it adopts the biaffine scoring mechanism from Dozat and Manning (2017) to condition XPOS and UFeats prediction on that of UPOS.
 The 17 Universal Part of Speech tags are shown in the table below.
 
-![image](https://user-images.githubusercontent.com/101394672/204143659-7459a316-2978-407f-9d31-7152c39a869f.png)
+<img src="https://user-images.githubusercontent.com/101394672/204143659-7459a316-2978-407f-9d31-7152c39a869f.png" width="600">
 
 Using Stanza, adjectives were first chosen to be extracted as they are descriptive words that can show us what people are describing about Sentosa. Adverbs were then added as they could help to show to what extent of the descriptive words that were used. Lastly, nouns were added to help identify what was being described.
 Using the concept of ngrams, a bigram would consist of an adverb and an adjective while a trigram would consist of a noun, an adverb and an adjective or an adverb, an adjective and a noun in the sequences as mentioned.
@@ -103,9 +103,9 @@ All ngrams and reviews in Indonesian Language would be translated into English L
 Using Tableau Desktop, horizontal bar charts of the frequency of positive and negative ngrams were plotted for years 2017 to 2022 for the attractions: Adventure Cove, Beach Waterfront, Cable Car, S.E.A Aquarium, Skyline Luge, Universal Studios Singapore and Wings of Time.
 The image below shows the positive ngrams sorted by highest frequency for Skyline Luge in 2019.
 
-![image](https://user-images.githubusercontent.com/101394672/204143763-b4df1e4c-8d1d-46d3-94a7-938a664b8520.png)
-![image](https://user-images.githubusercontent.com/101394672/204143770-42e04dad-876f-415c-b836-807a2211904c.png)
-![image](https://user-images.githubusercontent.com/101394672/204143775-1172cf89-4472-4364-87e6-351309593860.png)
+<img src="https://user-images.githubusercontent.com/101394672/204143763-b4df1e4c-8d1d-46d3-94a7-938a664b8520.png" width="600">
+<img src="https://user-images.githubusercontent.com/101394672/204143770-42e04dad-876f-415c-b836-807a2211904c.png" width="600">
+<img src="https://user-images.githubusercontent.com/101394672/204143775-1172cf89-4472-4364-87e6-351309593860.png" width="600">
 
 Sample Review for Ngram ‘better’ for Skyline Luge in 2019
 ![image](https://user-images.githubusercontent.com/101394672/204144010-39f2b338-0941-4bbf-83d4-5a206c2bde25.png)
