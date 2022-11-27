@@ -12,7 +12,7 @@ process and it entails summarization of the textual case notes/log to harness la
 unstructured text data for deriving key service insights, identify pain points timely and improve 
 customer satisfaction as part of Sentosa guest insights & experience (GIE) initiative. 
  
-## Desired outcomes 
+## Desired Outcomes 
 ### Develop MVP models for: 
 - Auto summarization of the case notes/feedback logs from various channels 
 - Auto categorization of feedback data received 
