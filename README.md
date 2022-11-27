@@ -38,12 +38,12 @@ customer satisfaction as part of Sentosa guest insights & experience (GIE) initi
 Part of speech indicates how the word functions in meaning as well as grammatically within the sentence. In English, as in many other languages, a single word can function as more than one part of speech when used in different circumstances. Understanding part of speech is essential for determining the correct definition of a word when using the dictionary. There are eight Parts of speech in the English language: noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection.
 
 1.	Noun
-A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.
+   A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.
 
-*The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
+   *The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
 
 2.	Pronoun
-A pronoun is a word that is used in place of a noun. A pronoun is usually substituted for a specific noun, which is called its antecedent. In the italics sentence below, the antecedent for the pronoun her is the girl. Pronouns are further defined by type: personal pronouns refer to specific persons or things; possessive pronouns indicate ownership; reflexive pronouns are used to emphasize another noun or pronoun; relative pronouns introduce a subordinate clause; and demonstrative pronouns identify, point to, or refer to nouns.
+   - A pronoun is a word that is used in place of a noun. A pronoun is usually substituted for a specific noun, which is called its antecedent. In the italics sentence below, the antecedent for the pronoun her is the girl. Pronouns are further defined by type: personal pronouns refer to specific persons or things; possessive pronouns indicate ownership; reflexive pronouns are used to emphasize another noun or pronoun; relative pronouns introduce a subordinate clause; and demonstrative pronouns identify, point to, or refer to nouns.
 
 *The young girl asked **her** mother to bring **her** to the beach at Sentosa for a picnic and then **she** quickly hid under the blanket. Wow!*
 
@@ -90,9 +90,9 @@ Using the concept of ngrams, a bigram would consist of an adverb and an adjectiv
  
 The tables below show a comparison of unigrams versus bigrams vs trigrams.
 
-![image](https://user-images.githubusercontent.com/101394672/204143695-7ed78a3a-f541-40b1-8835-44c68b08ac89.png)
-![image](https://user-images.githubusercontent.com/101394672/204143704-183f8435-62ef-4810-8a9d-ec92ea012516.png)
-![image](https://user-images.githubusercontent.com/101394672/204143732-97f0d21f-fa25-4c1a-a86f-3b6af949319c.png)
+<img src="https://user-images.githubusercontent.com/101394672/204143695-7ed78a3a-f541-40b1-8835-44c68b08ac89.png" width="600">
+<img src="https://user-images.githubusercontent.com/101394672/204143704-183f8435-62ef-4810-8a9d-ec92ea012516.png" width="600">
+<img src="https://user-images.githubusercontent.com/101394672/204143732-97f0d21f-fa25-4c1a-a86f-3b6af949319c.png" width="600">
 
 It can be seen that after adding adverbs and nouns to the initial unigram which was only an adjective by itself, the phrases add more meaning and context to the adjectives. Thus, for the purpose of this project, bigrams and trigrams which consisted of adverbs, adjectives and nouns were chosen to be extracted from the text corpus of reviews. For simplicity, the term ‘ngrams’ will be used to represent bigrams and trigrams throughout this chapter.
 The ngrams would be run on Google Cloud Natural Language API for Sentiment Analysis which would classify them into positive, negative or neutral. This would help to group the ngrams which belong to the same sentiment together for a cleaner analysis.
@@ -117,8 +117,8 @@ Sample Review for Ngram ‘even addicted’ for Skyline Luge in 2019
 ![image](https://user-images.githubusercontent.com/101394672/204144045-67452614-52f2-4cd9-94e5-51b6d072f196.png)
 
 The image below shows the negative ngrams sorted by highest frequency for Skyline Luge in 2019.
-![image](https://user-images.githubusercontent.com/101394672/204144069-4dc26e61-402d-4b9f-b685-e53659af398b.png)
-![image](https://user-images.githubusercontent.com/101394672/204144076-156c552f-33b6-4655-b53b-4c7897070955.png)
+<img src="https://user-images.githubusercontent.com/101394672/204144069-4dc26e61-402d-4b9f-b685-e53659af398b.png" width="600">
+<img src="https://user-images.githubusercontent.com/101394672/204144076-156c552f-33b6-4655-b53b-4c7897070955.png" width="600">
 
 Sample Review for Ngram ‘too expensive’ for Skyline Luge in 2019
 ![image](https://user-images.githubusercontent.com/101394672/204144089-c1850146-58cc-4bd0-8625-5221d0a2ccbb.png)
