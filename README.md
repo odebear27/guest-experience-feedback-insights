@@ -21,7 +21,7 @@ customer satisfaction as part of Sentosa guest insights & experience (GIE) initi
 ### Develop Visualization for: 
 - Understanding of key service trends including sentiment, trending keywords, positive/negative keywords over time
 
-## Project Deliverable 
+## Project Deliverables 
 1. Model Construct and source codes where applicable with documentation for Text Summarization Module 
 2. Model Construct and source codes where applicable with documentation for Category Classification 
 3. Dashboard design and construct and source codes where applicable
