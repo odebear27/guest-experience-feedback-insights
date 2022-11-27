@@ -38,7 +38,7 @@ customer satisfaction as part of Sentosa guest insights & experience (GIE) initi
 Part of speech indicates how the word functions in meaning as well as grammatically within the sentence. In English, as in many other languages, a single word can function as more than one part of speech when used in different circumstances. Understanding part of speech is essential for determining the correct definition of a word when using the dictionary. There are eight Parts of speech in the English language: noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection.
 
 1.	Noun  
-   A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.
+   A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.  
 
    *The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
 
