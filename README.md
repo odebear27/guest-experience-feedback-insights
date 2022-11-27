@@ -40,7 +40,7 @@ Part of speech indicates how the word functions in meaning as well as grammatica
 1.	Noun  
    A noun is the name of a person, place, thing or idea. Nouns are often used with an article (the, a, an) but not always. Proper nouns always start with a capital letter; common nouns do not. Nouns can function in different roles within a sentence. For example, a noun can be a subject, direct object, indirect object, subject complement, or object of a preposition.  
 
-   *The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
+      *The young **girl** asked her **mother** to bring her to the **beach** at **Sentosa** for a **picnic** and then she quickly hid under the **blanket**. Wow!*
 
 2.	Pronoun  
    A pronoun is a word that is used in place of a noun. A pronoun is usually substituted for a specific noun, which is called its antecedent. In the italics sentence below, the antecedent for the pronoun her is the girl. Pronouns are further defined by type: personal pronouns refer to specific persons or things; possessive pronouns indicate ownership; reflexive pronouns are used to emphasize another noun or pronoun; relative pronouns introduce a subordinate clause; and demonstrative pronouns identify, point to, or refer to nouns.
