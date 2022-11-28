@@ -108,11 +108,14 @@ The image below shows the positive ngrams sorted by highest frequency for Skylin
 ![image](https://user-images.githubusercontent.com/101394672/204144010-39f2b338-0941-4bbf-83d4-5a206c2bde25.png)
 <sub>Sample Review for Ngram ‘better’ for Skyline Luge in 2019</sub>
 
+
 ![image](https://user-images.githubusercontent.com/101394672/204144029-6fd7a483-d971-4381-aa76-c8afc34cf1b7.png)
 <sub>Sample Review for Ngram ‘quite satisfied’ for Skyline Luge in 2019</sub>
 
+
 ![image](https://user-images.githubusercontent.com/101394672/204144045-67452614-52f2-4cd9-94e5-51b6d072f196.png)
 <sub>Sample Review for Ngram ‘even addicted’ for Skyline Luge in 2019</sub>
+
 
 The image below shows the negative ngrams sorted by highest frequency for Skyline Luge in 2019.
 <img src="https://user-images.githubusercontent.com/101394672/204144069-4dc26e61-402d-4b9f-b685-e53659af398b.png" width="600">
@@ -121,11 +124,14 @@ The image below shows the negative ngrams sorted by highest frequency for Skylin
 ![image](https://user-images.githubusercontent.com/101394672/204144089-c1850146-58cc-4bd0-8625-5221d0a2ccbb.png)
 <sub>Sample Review for Ngram ‘too expensive’ for Skyline Luge in 2019</sub>
 
+
 ![image](https://user-images.githubusercontent.com/101394672/204144116-c9412d95-64bb-416d-aef8-b04b6d592c45.png)
 <sub>Sample Review for Ngram ‘too clear’ for Skyline Luge in 2019</sub>
 
+
 ![image](https://user-images.githubusercontent.com/101394672/204144130-b6694cb3-6be1-43c2-aee4-0f3722ab9308.png)
 <sub>Sample Review for Ngram ‘very complicated’ for Skyline Luge in 2019</sub>
+
 
 #### Evaluation and Analysis
 This model serves to narrow down the reviews to the bare minimum of the adjectives, adverbs and nouns which describes what the Indonesians are talking about for the various attractions in Sentosa.
