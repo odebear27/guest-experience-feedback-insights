@@ -2,8 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/101394672/204144156-ba1510ce-2123-4950-827b-acdca8721bf0.png)
 ![image](https://user-images.githubusercontent.com/101394672/204176062-a99f7fac-9809-47db-a2ae-a95f13494996.png)
-![image](https://user-images.githubusercontent.com/101394672/204144165-1fe57abf-d226-4973-8920-0318d84e8d2c.png)
-The above Visualisation was built with Tableau Desktop hosted [here] (https://public.tableau.com/app/profile/odelia.tan/viz/attractions_master_pos_v3_extract/Presentation)
+![image](https://user-images.githubusercontent.com/101394672/204144165-1fe57abf-d226-4973-8920-0318d84e8d2c.png)  
+The above Visualisation was built with Tableau Desktop hosted [here] (https://public.tableau.com/app/profile/odelia.tan/viz/attractions_master_pos_v3_extract/Presentation).
 
 ## Project Objective and Motivation 
 Sentosa Development Corporation (SDC) is in the business of travel and hospitality where providing  a good guest experience is critical to achieve good mindshare to entice returning visitors and  ensuring guests indirectly becoming our brand ambassadors through good reviews and feedback.  To achieve a good guest experience, it is critical to be able identify key issues and compliments from  guests through various channels. This will: 
