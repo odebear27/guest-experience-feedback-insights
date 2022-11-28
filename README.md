@@ -88,7 +88,7 @@ The 17 Universal Part of Speech tags are shown in the table below.
 Using Stanza, adjectives were first chosen to be extracted as they are descriptive words that can show us what people are describing about Sentosa. Adverbs were then added as they could help to show to what extent of the descriptive words that were used. Lastly, nouns were added to help identify what was being described.
 Using the concept of ngrams, a bigram would consist of an adverb and an adjective while a trigram would consist of a noun, an adverb and an adjective or an adverb, an adjective and a noun in the sequences as mentioned.
  
-The tables below show a comparison of unigrams versus bigrams vs trigrams.
+The tables below show a comparison of unigrams versus bigrams vs trigrams.  
 
 <img src="https://user-images.githubusercontent.com/101394672/204143695-7ed78a3a-f541-40b1-8835-44c68b08ac89.png" width="600">
 <img src="https://user-images.githubusercontent.com/101394672/204143704-183f8435-62ef-4810-8a9d-ec92ea012516.png" width="600">
