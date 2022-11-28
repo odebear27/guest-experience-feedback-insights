@@ -124,7 +124,7 @@ The image below shows the negative ngrams sorted by highest frequency for Skylin
 ![image](https://user-images.githubusercontent.com/101394672/204144116-c9412d95-64bb-416d-aef8-b04b6d592c45.png)  
 <sub>Sample Review for Ngram ‘too clear’ for Skyline Luge in 2019</sub>
 
-![image](https://user-images.githubusercontent.com/101394672/204144130-b6694cb3-6be1-43c2-aee4-0f3722ab9308.png)
+![image](https://user-images.githubusercontent.com/101394672/204144130-b6694cb3-6be1-43c2-aee4-0f3722ab9308.png)  
 <sub>Sample Review for Ngram ‘very complicated’ for Skyline Luge in 2019</sub>
 
 #### Evaluation and Analysis
