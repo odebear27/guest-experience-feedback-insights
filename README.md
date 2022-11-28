@@ -86,9 +86,7 @@ The 17 Universal Part of Speech tags are shown in the table below.
 <img src="https://user-images.githubusercontent.com/101394672/204143659-7459a316-2978-407f-9d31-7152c39a869f.png" width="600">
 
 Using Stanza, adjectives were first chosen to be extracted as they are descriptive words that can show us what people are describing about Sentosa. Adverbs were then added as they could help to show to what extent of the descriptive words that were used. Lastly, nouns were added to help identify what was being described.
-Using the concept of ngrams, a bigram would consist of an adverb and an adjective while a trigram would consist of a noun, an adverb and an adjective or an adverb, an adjective and a noun in the sequences as mentioned.
- 
-The tables below show a comparison of unigrams versus bigrams vs trigrams.  
+Using the concept of ngrams, a bigram would consist of an adverb and an adjective while a trigram would consist of a noun, an adverb and an adjective or an adverb, an adjective and a noun in the sequences as mentioned. The tables below show a comparison of unigrams versus bigrams vs trigrams.  
 
 <img src="https://user-images.githubusercontent.com/101394672/204143695-7ed78a3a-f541-40b1-8835-44c68b08ac89.png" width="600">
 <img src="https://user-images.githubusercontent.com/101394672/204143704-183f8435-62ef-4810-8a9d-ec92ea012516.png" width="600">
@@ -122,6 +120,7 @@ The image below shows the negative ngrams sorted by highest frequency for Skylin
 
 Sample Review for Ngram ‘too expensive’ for Skyline Luge in 2019
 ![image](https://user-images.githubusercontent.com/101394672/204144089-c1850146-58cc-4bd0-8625-5221d0a2ccbb.png)
+<sub>Sample Review for Ngram ‘too expensive’ for Skyline Luge in 2019</sub>
 
 Sample Review for Ngram ‘too clear’ for Skyline Luge in 2019
 ![image](https://user-images.githubusercontent.com/101394672/204144116-c9412d95-64bb-416d-aef8-b04b6d592c45.png)
