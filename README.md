@@ -133,6 +133,7 @@ Even though the frequency of the ngrams may be small for some ngrams, these ngra
 
 The image below shows the final dashboard created using Tableau Desktop.
 ![image](https://user-images.githubusercontent.com/101394672/204144156-ba1510ce-2123-4950-827b-acdca8721bf0.png)
+![image](https://user-images.githubusercontent.com/101394672/204176062-a99f7fac-9809-47db-a2ae-a95f13494996.png)
 ![image](https://user-images.githubusercontent.com/101394672/204144165-1fe57abf-d226-4973-8920-0318d84e8d2c.png)
 
 Overall, this model which uses part of speech to tag the reviews and extract the adjectives, adverbs and nouns out as bigrams and trigrams shows how different part of speech can be made used of to extract specific information that we want from a text corpus. This saves time and filters out unnecessary texts which users could spend long hours reading.
