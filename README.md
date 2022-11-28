@@ -106,7 +106,7 @@ The image below shows the positive ngrams sorted by highest frequency for Skylin
 <img src="https://user-images.githubusercontent.com/101394672/204143775-1172cf89-4472-4364-87e6-351309593860.png" width="600">
 
 ![image](https://user-images.githubusercontent.com/101394672/204144010-39f2b338-0941-4bbf-83d4-5a206c2bde25.png)
-<sub>Sample Review for Ngram ‘better’ for Skyline Luge in 2019</sub>  
+<sub>Sample Review for Ngram ‘better’ for Skyline Luge in 2019</sub><br/>
 
 ![image](https://user-images.githubusercontent.com/101394672/204144029-6fd7a483-d971-4381-aa76-c8afc34cf1b7.png)
 <sub>Sample Review for Ngram ‘quite satisfied’ for Skyline Luge in 2019</sub>  
